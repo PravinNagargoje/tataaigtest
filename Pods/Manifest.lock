@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Cosmos (23.0.0)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - ObjectMapper (3.5.3)
+  - Realm (5.4.8):
+    - Realm/Headers (= 5.4.8)
+  - Realm/Headers (5.4.8)
+  - RealmSwift (5.4.8):
+    - Realm (= 5.4.8)
+  - SKPhotoBrowser (6.1.0)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 5.2)
+  - Cosmos (~> 23.0)
+  - Kingfisher
+  - Realm
+  - RealmSwift
+  - SKPhotoBrowser
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Cosmos
+    - Kingfisher
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - SKPhotoBrowser
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  Realm: 042bbb59227a0159eda397b8a5a49fbd67495ce7
+  RealmSwift: 15ddd6b3398ebfc99810811c44f095df1313adb3
+  SKPhotoBrowser: 343de95d89dc7913763c5dda243cc6e606e4a168
+
+PODFILE CHECKSUM: de1cd54c644f06c352fa333f4c3b63a8d1524e1a
+
+COCOAPODS: 1.9.3
