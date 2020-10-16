@@ -1,5 +1,5 @@
 # tataaigtest
-Test assignment for tata aig
+Test assignment for movie DB app
 
 Following are the steps to check app: 
 
@@ -8,3 +8,4 @@ Following are the steps to check app: 
    3. If you tap on settings icon you can see options to sort the list by highest rated or popular order.<br />
    4. If you tap on search icon you can search movies locally.<br />
    5. If you tap on any movie you will be redirected to the details page of the same movie. where you can see it's posters, name. rating and overview..<br />
+   6. You can scroll through poster images available of the same movie.
