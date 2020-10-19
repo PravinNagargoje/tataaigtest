@@ -4,12 +4,13 @@ platform :ios, '10.0'
 
 target 'tataaigtest' do
 #	pod 'Alamofire', '~> 5.2'
-	pod 'Kingfisher'
-	pod 'Cosmos', '~> 23.0'
+	      pod 'Kingfisher'
+	      pod 'Cosmos', '~> 23.0'
         pod 'SKPhotoBrowser'
         pod 'Realm'
         pod 'RealmSwift'
-pod 'AlamofireObjectMapper', '~> 5.2'
+        pod 'AlamofireObjectMapper', '~> 5.2'
+        pod 'IQKeyboardManagerSwift'
 
 end
 #post_install do |installer|

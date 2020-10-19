@@ -124,7 +124,13 @@ extension HomeScreenVC: UISearchBarDelegate {
     }
     
     func setupActivityIndicator() {
-        self.activityIndicator.style = UIActivityIndicatorView.Style.large
+        if #available(iOS 13.0, *) {
+            self.activityIndicator.style = UIActivityIndicatorView.Style.large
+        } else {
+                self.activityIndicator.style = .whiteLarge
+            
+            // Fallback on earlier versions
+        }
         self.activityIndicator.color = UIColor.white
         self.activityIndicator.hidesWhenStopped = true
         self.activityIndicator = UIActivityIndicatorView(

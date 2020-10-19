@@ -4,6 +4,7 @@ PODS:
     - Alamofire (~> 4.7)
     - ObjectMapper (~> 3.4)
   - Cosmos (23.0.0)
+  - IQKeyboardManagerSwift (6.5.6)
   - Kingfisher (5.14.1):
     - Kingfisher/Core (= 5.14.1)
   - Kingfisher/Core (5.14.1)
@@ -18,6 +19,7 @@ PODS:
 DEPENDENCIES:
   - AlamofireObjectMapper (~> 5.2)
   - Cosmos (~> 23.0)
+  - IQKeyboardManagerSwift
   - Kingfisher
   - Realm
   - RealmSwift
@@ -28,6 +30,7 @@ SPEC REPOS:
     - Alamofire
     - AlamofireObjectMapper
     - Cosmos
+    - IQKeyboardManagerSwift
     - Kingfisher
     - ObjectMapper
     - Realm
@@ -38,12 +41,13 @@ SPEC CHECKSUMS:
   Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
   AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
   Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
   Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
   ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
   Realm: 042bbb59227a0159eda397b8a5a49fbd67495ce7
   RealmSwift: 15ddd6b3398ebfc99810811c44f095df1313adb3
   SKPhotoBrowser: 343de95d89dc7913763c5dda243cc6e606e4a168
 
-PODFILE CHECKSUM: de1cd54c644f06c352fa333f4c3b63a8d1524e1a
+PODFILE CHECKSUM: 3f2c0c77d22f217a7206552be3d4e50a391082ce
 
 COCOAPODS: 1.9.3
