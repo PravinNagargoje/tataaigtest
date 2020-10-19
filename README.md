@@ -1,5 +1,6 @@
 # tataaigtest
 Test assignment for movie DB app
+
 PS : Please use iPhone having iOS 13 or above
 
 Following are the steps to check app: 
